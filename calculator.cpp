@@ -70,11 +70,6 @@ int main()
 		default:
 			cout<<"Invalid Number";
 		
-	
-	
-	
-		
 	}
-	
-	return 0;
 }
+
